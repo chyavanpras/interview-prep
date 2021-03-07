@@ -1,7 +1,7 @@
 
 # [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
 
-- [Steps to Approach Design](#step-by-step)
+- [Steps to Approach Design](#steps-to-approach-design)
 - [Design TinyURL](#design-tiny-url)
   - [Requirements](#tiny-url-requirement)
   - [Estimates](#tiny-url-estimates)
